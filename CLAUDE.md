@@ -1,0 +1,1 @@
+Follow the writing_style_notes.md for writing the content
