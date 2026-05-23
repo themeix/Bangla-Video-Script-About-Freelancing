@@ -19,7 +19,6 @@
 Dopamine তাদের মধ্যেই একটি।
 মানে dopamine হলো brain-এর এক ধরনের neurotransmitter।
 এটা মূলত motivation, reward expectation, learning এবং habit formation-এর সাথে জড়িত।
-একটু খেয়াল করুন।
 অনেকে মনে করেন dopamine মানেই “pleasure chemical”।
 কথাটা আংশিক সত্য।
 কিন্তু পুরোটা না।
@@ -40,7 +39,7 @@ Dopamine তাদের মধ্যেই একটি।
 পরের ভিডিওটা funny হবে কিনা জানেন না।
 নতুন message এসেছে কিনা জানেন না।
 কেউ react দিয়েছে কিনা জানেন না।
-এই uncertainty brain-এর reward system-কে stimulate করে।
+এই অনিশ্চয়তাই মস্তিষ্কের ভেতরে পুরস্কার পাওয়ার অনুভূতিকে জাগিয়ে তোলে।
 একটু চিন্তা করে দেখুন।
 ক্যাসিনো বা gambling machine-ও একই psychological pattern ব্যবহার করে।
 কারণ মানুষ নিশ্চিত reward-এর চেয়ে unpredictable reward-এ বেশি hooked হয়ে যায়।
@@ -107,7 +106,7 @@ Brain-এর dopamine system habit তৈরি করতে খুব বড়
 আজকে অনেক মানুষ burnout, anxiety, attention problem বা constant mental restlessness অনুভব করছেন।
 সবকিছুর কারণ শুধু dopamine না অবশ্যই।
 Mental health অনেক complex বিষয়।
-কিন্তু excessive digital stimulation এই সমস্যাগুলোকে আরো বাড়িয়ে দিতে পারে — এটা নিয়ে neuroscience এবং behavioral psychology-তে অনেক গবেষণা হয়েছে।
+কিন্তু অতিরিক্ত ডিজিটাল উত্তেজনা মানুষের এই সমস্যাগুলোকে আরও বাড়িয়ে দিতে পারে — এটা নিয়ে neuroscience এবং behavioral psychology-তে অনেক গবেষণা হয়েছে।
 এজন্য মাঝে মাঝে brain-কে একটু slow environment দেওয়াও জরুরি।
 কিছু সময় notification ছাড়া থাকা।
 Deep conversation করা।
@@ -115,7 +114,7 @@ Deep conversation করা।
 প্রকৃতির মধ্যে হাঁটা।
 নামাজে মনোযোগ দেওয়া।
 একটু silence-এর মধ্যে থাকা।
-এগুলো brain-এর overstimulation কমাতে সাহায্য করতে পারে।
+এগুলো brain-এর উত্তেজনা কমাতে সাহায্য করতে পারে।
 একটু খেয়াল করুন।
 আজকে পৃথিবী আপনার attention-এর জন্য competition করছে।
 Social media platform চায় আপনি আরো বেশি সময় থাকুন।
@@ -146,7 +145,7 @@ Streaming platform চায় আপনি আরো দেখুন।
 দিনে কিছু সময় deep focus-এর জন্য রাখা।
 আর মাঝে মাঝে brain-কে silence দেওয়া।
 শুরুতে কঠিন লাগতে পারে।
-কারণ brain instant stimulation-এ অভ্যস্ত হয়ে গেছে।
+কারণ মস্তিষ্ক এখন সবকিছু দ্রুত ও তাৎক্ষণিকভাবে পেতে অভ্যস্ত হয়ে গেছে।
 কিন্তু ধীরে ধীরে আপনি নিজেই বুঝতে পারবেন, মনোযোগ আবার improve হচ্ছে।
 অস্থিরতা একটু কমছে।
 ছোট জিনিসেও শান্তি অনুভব করা যাচ্ছে।
